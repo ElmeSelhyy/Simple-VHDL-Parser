@@ -76,5 +76,5 @@ This project implements a simple language parser for a custom hardware descripti
 
 - `lexer.l`: Flex file containing token definitions and lexical analysis rules
 - `parser.y`: Bison file containing grammar rules and semantic actions
-- `testScript.sh`: Bash script for running test cases
+- `testingScript.sh`: Bash script for running test cases
 - `Makefile`: Build configuration for the project

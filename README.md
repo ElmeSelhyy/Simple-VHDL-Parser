@@ -67,7 +67,7 @@ This project implements a simple language parser for a custom hardware descripti
 
 2. Run the test script:
    ```
-   ./testScript.sh
+   ./testingScript.sh
    ```
 
    This will run the parser on all test files in the `tests` directory and display the results.
